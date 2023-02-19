@@ -13,4 +13,4 @@ puts "#{nome}, nasceu no ano de #{anoNascimento} e tem #{idade} anos, reside na 
 
 
 
-print "Olá #{nome}, Prazer em conhecê-lo!"
+print "Olá #{nome}, Prazer em conhecê-lo! "
